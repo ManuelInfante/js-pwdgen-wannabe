@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    padding: 50px;
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgba(158, 2, 2, 0.486);
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-size: 4rem;
+}
+
+p{
+    margin-top: 30px;
+    font-size: 2rem;
+    color: white;
+    background-color: black;
+}
